@@ -1,7 +1,8 @@
 def main():
     print("hello world")
     x = 1
-    z = x 
+    z = x
+    print(z)
     print('par')
 
 main()
